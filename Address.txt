@@ -1,0 +1,14 @@
+https://docs.nginx.com/nginx-ingress-controller/installation/installing-nic/installation-with-manifests/
+https://github.com/nginx/kubernetes-ingress/tree/v4.0.0/examples/ingress-resources/complete-example
+https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md#options-for-software-load-balancing
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
+https://github.com/containerd/containerd/blob/main/docs/hosts.md
+https://kubernetes.io/docs/reference/setup-tools/kubeadm/implementation-details/
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/
+https://kubernetes.io/docs/setup/best-practices/
+https://kubernetes.io/docs/tasks/tools/
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/#without-internet-connection
+https://kubernetes.io/docs/setup/best-practices/cluster-large/
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+https://kubernetes.io/releases/download/
