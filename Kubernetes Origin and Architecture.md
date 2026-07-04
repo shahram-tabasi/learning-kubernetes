@@ -23,3 +23,6 @@ Kubelet  ->  connection bridge between worker and master
 container Runtime  -> pull image from repository
 
 Kube Proxy  -> connection to Api server
+
+===========================================
+Admin user, use kubectl to work with cluster
